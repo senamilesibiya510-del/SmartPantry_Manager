@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units_array">
+        <item>kg</item>
+        <item>g</item>
+        <item>L</item>
+        <item>ml</item>
+        <item>pcs</item>
+    </string-array>
+    <string-array name="categories_array">
+        <item>Vegetable</item>
+        <item>Fruit</item>
+        <item>Dairy</item>
+        <item>Meat</item>
+        <item>Pantry</item>
+        <item>Other</item>
+    </string-array>
+</resources>
